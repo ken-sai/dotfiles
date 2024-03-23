@@ -2,6 +2,10 @@
 alias ls='ls -FG'
 alias ll='ls -laFG'
 
+alias vi="nvim"
+alias vim="nvim"
+alias view="nvim -R"
+
 # setopt
 setopt nonomatch
 
